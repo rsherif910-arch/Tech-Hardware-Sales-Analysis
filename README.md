@@ -104,5 +104,6 @@ ORDER BY SUM(quantity) DESC;
 ## 📈 Dashboard Visualization
 *(Below is the visual dashboard comparing sales performance against quantities sold, utilizing a professional minimalist aesthetic)*
 
-![Uploading ChatGPT Image Jun 20, 2026, 08_28_26 PM.png…]()
+<img width="1692" height="929" alt="image" src="https://github.com/user-attachments/assets/f62ccfc7-6353-4816-b8f6-0be10dc0b010" />
+
 

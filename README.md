@@ -103,4 +103,6 @@ ORDER BY SUM(quantity) DESC;
 
 ## 📈 Dashboard Visualization
 *(Below is the visual dashboard comparing sales performance against quantities sold, utilizing a professional minimalist aesthetic)*
+
+
 ![Dashboard](dashboard.png)

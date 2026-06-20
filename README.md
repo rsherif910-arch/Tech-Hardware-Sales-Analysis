@@ -104,4 +104,4 @@ ORDER BY SUM(quantity) DESC;
 ## 📈 Dashboard Visualization
 *(Below is the visual dashboard comparing sales performance against quantities sold, utilizing a professional minimalist aesthetic)*
 
-![Sales vs Quantity Dashboard](ChatGPT Image Jun 20, 2026, 08_28_26 PM.png)
+![Sales vs Quantity Dashboard](dashboard.png)

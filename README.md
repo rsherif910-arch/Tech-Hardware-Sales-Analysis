@@ -105,4 +105,4 @@ ORDER BY SUM(quantity) DESC;
 *(Below is the visual dashboard comparing sales performance against quantities sold, utilizing a professional minimalist aesthetic)*
 
 
-![Dashboard](dashboard.png)
+<img src="dashboard.png" alt="Dashboard" width="100%">
